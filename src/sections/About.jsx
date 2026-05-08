@@ -150,7 +150,7 @@ const About = () => {
 
               {/* Resume Button */}
               <a
-                href="/Mayur_Mali_Resume.pdf"
+                href="/Mayur_Mali_rsme.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
