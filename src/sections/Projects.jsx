@@ -8,8 +8,8 @@ const Projects = () => {
     {
       title: 'College Event Management System',
       description: 'A web-based application to manage college events, allowing users to view and register for events while enabling admins to create and manage event details efficiently.',
-      image: '/api/placeholder/400/300',
-      technologies: ['Java', 'JSP', 'Servlet', 'Spring Boot', 'Hibernate (JPA)', 'PostgreSQL', 'HTML', 'CSS', "React Js", 'JavaScript'],
+      image: '/Collage_pht.jpg',
+      technologies: ['Java', 'Spring Boot', 'Hibernate (JPA)', 'PostgreSQL', 'HTML', 'CSS', "Tailwind CSS", 'React Js', 'JavaScript'],
       github: 'https://github.com/Mayurmali1232',
       live: 'https://college-event-frontend1-seven.vercel.app',
       featured: true
@@ -17,8 +17,8 @@ const Projects = () => {
     {
       title: 'Real Estate Management System',
       description: 'A web-based application that allows users to browse, add, and manage property listings. It provides features for property search, details viewing, and admin management of listings and users.',
-      image: '/api/placeholder/400/300',
-      technologies: ['Java', 'JSP', 'Servlet', 'Hibernate (JPA)', 'PostgreSQL', 'HTML', 'CSS', 'JavaScript'],
+      image: '/real_estate.jpg',
+      technologies: ['Java', 'Spring Boot', 'Hibernate (JPA)', 'PostgreSQL', 'HTML', 'CSS', "Tailwind CSS", 'React Js', 'JavaScript'],
       github: 'https://github.com/Mayurmali1232/college-event-backend',
       live: 'https://college-event-frontend1-seven.vercel.app/',
       featured: true
