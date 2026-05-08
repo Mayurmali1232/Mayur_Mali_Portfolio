@@ -11,7 +11,7 @@ const Projects = () => {
       image: '/api/placeholder/400/300',
       technologies: ['Java', 'JSP', 'Servlet', 'Spring Boot', 'Hibernate (JPA)', 'PostgreSQL', 'HTML', 'CSS', "React Js", 'JavaScript'],
       github: 'https://github.com/Mayurmali1232',
-      live: 'https://example.com',
+      live: 'https://college-event-frontend1-seven.vercel.app',
       featured: true
     },
     {
