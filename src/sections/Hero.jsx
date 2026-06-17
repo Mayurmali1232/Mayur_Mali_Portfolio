@@ -4,7 +4,7 @@ import { fadeInUp, fadeInLeft, scaleIn } from '../animations/framerVariants';
 import Scene from '../three/Scene';
 
 const Hero = () => {
-  const roles = [' Java Full Stack Developer', 'Database Developer', 'UI/UX Designer', 'React Developer', 'Problem Solver'];
+  const roles = [' Java Full Stack Developer', 'Database Developer', 'Database Developer', 'React Developer', 'Problem Solver'];
 
 
   const scrollToProjects = () => {

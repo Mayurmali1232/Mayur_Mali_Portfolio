@@ -8,7 +8,7 @@ const Experience = () => {
       title: 'Java Developer Intern',
       company: 'Test Yantra',
       location: 'Bengaluru, India',
-      period: 'June 2025 - Dec 2025',
+      period: 'Nov 2025 - Apr 2026',
       description: [
         'Developed and debugged Java-based applications during a 7-month internship',
         'Worked with databases to perform CRUD operations',
