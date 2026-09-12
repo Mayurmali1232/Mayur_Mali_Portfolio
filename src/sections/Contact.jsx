@@ -78,8 +78,8 @@ const Contact = () => {
         >
           <h2 className="text-4xl md:text-5xl font-bold gradient-text mb-4">Get In Touch</h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            I am actively looking for opportunities to start my career as a Software Developer.
-            Feel free to reach out for any opportunities or collaborations.
+            Java Developer experienced in building enterprise applications with Java, Spring Boot, REST APIs, and Microservices. Open to exciting opportunities and collaborations.
+
           </p>
         </motion.div>
 
@@ -96,10 +96,10 @@ const Contact = () => {
             <div>
               <h3 className="text-2xl font-bold text-white mb-6">Let's Connect</h3>
               <p className="text-gray-300 leading-relaxed mb-8">
-                I am a fresher passionate about software development with skills in Java, React JS, and PostgreSQL.
-                I enjoy building projects and learning new technologies.
-                I am looking for an opportunity where I can apply my skills, learn from experienced professionals,
-                and grow in the IT industry.
+              I am a Java Developer with hands-on experience in building enterprise applications using Java, Spring Boot, Microservices, React JS, and PostgreSQL.
+
+I enjoy solving problems, learning new technologies, and building scalable applications. I am open to opportunities where I can contribute, grow, and enhance my technical skills.
+
               </p>
             </div>
 

@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '../animations/framerVariants';
 
+import { SiApachekafka } from "react-icons/si";
 import {
   FaReact, FaDatabase, FaGitAlt, FaJava, FaCode,
   FaGithub
@@ -19,7 +20,27 @@ import { FaCss3Alt } from 'react-icons/fa';
 import { VscCode } from 'react-icons/vsc';
 const Skills = () => {
   const skillCategories = [
-    {
+    
+  {
+  title: 'Backend and Database',
+  skills: [
+    { name: 'Java', icon: FaJava, level: 90 },
+    { name: 'Spring Boot', icon: SiSpringboot, level: 90 },
+    { name: 'Spring Data JPA', icon: SiSpring, level: 90 },
+    { name: 'Spring MVC', icon: SiSpring, level: 90 },
+    { name: 'Microservices', icon: SiSpring, level: 85 },
+    { name: 'Apache Kafka', icon: SiApachekafka, level: 80 },
+    { name: 'API Development', icon: FaCode, level: 90 },
+    { name: 'Hibernate(JPA)', icon: SiHibernate, level: 90 },
+    { name: 'JDBC', icon: FaDatabase, level: 90 },
+    { name: 'SQL', icon: FaDatabase, level: 90 },
+    { name: 'PL/SQL', icon: FaDatabase, level: 80 },
+    { name: 'PostgreSQL', icon: SiPostgresql, level: 90 },
+    { name: 'MYSQL', icon: SiMysql, level: 90 },
+  ]
+},
+
+{
       title: 'Frontend Technologies',
       skills: [
         { name: 'HTML5', icon: SiHtml5, level: 90 },
@@ -27,23 +48,6 @@ const Skills = () => {
         { name: 'Tailwind CSS', icon: SiTailwindcss, level: 80 },
         { name: 'JavaScript', icon: SiJavascript, level: 90 },
         { name: 'React js', icon: FaReact, level: 90 }
-      ]
-    },
-
-    {
-      title: 'Backend and Database',
-      skills: [
-        { name: 'Java', icon: FaJava, level: 90 },
-        { name: 'Spring Boot', icon: SiSpringboot, level: 90 },
-        { name: 'Spring Data JPA', icon: SiSpring, level: 90 },
-        { name: 'Spring MVC', icon: SiSpring, level: 90 },
-        { name: 'API Development', icon: FaCode, level: 90 },
-        { name: 'Hibernate(JPA)', icon: SiHibernate, level: 90 },
-        { name: 'JDBC', icon: FaDatabase, level: 90 },
-        { name: 'SQL', icon: FaDatabase, level: 90 },
-        { name: 'PL/SQL', icon: FaDatabase, level: 80 },
-        { name: 'PostgreSQL', icon: SiPostgresql, level: 90 },
-        { name: 'MYSQL', icon: SiMysql, level: 90 },
       ]
     },
     

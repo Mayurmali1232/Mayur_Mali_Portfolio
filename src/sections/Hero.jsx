@@ -67,7 +67,7 @@ const Hero = () => {
             variants={fadeInUp}
             className="text-lg text-gray-300 max-w-2xl mx-auto leading-relaxed"
           >
-           Full Stack Java Developer passionate about developing responsive, user-friendly web applications using modern technologies like React, Spring Boot, and REST APIs.
+Java Developer passionate about building scalable, enterprise-grade applications using Java, Spring Boot, REST APIs, Microservices, JPA/Hibernate, PostgreSQL, and React. Experienced in developing robust backend services, designing RESTful APIs, implementing service-to-service communication, and integrating modern web applications.
           </motion.p>
 
           {/* Buttons */}
